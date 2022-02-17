@@ -1,0 +1,16 @@
+**/node_modules
+
+.DS_Store
+data/
+logs/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+package-lock.json
+
+# JUnit file
+junit.xml
+
+builds/*

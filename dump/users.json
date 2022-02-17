@@ -1,0 +1,2 @@
+{"_id":{"$oid":"620d2e8f5d050b3b48329cee"},"username":"user1","email":"user1@gmail.com","password":"$2a$10$JoCFlrv6z7auS5nQkgPD8.Xosvh0.r/XTOLu9/AMPaTpYCKTo6c4y","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"620d30f626eb5997385f76b3"},"username":"user2","email":"user2@gmail.com","password":"$2a$10$Sq/EgaOBgJ7MwvkkOWBf6OE.m/K9HIYKi/O5drIMDIfXFefLv2tuu","__v":{"$numberInt":"0"}}
